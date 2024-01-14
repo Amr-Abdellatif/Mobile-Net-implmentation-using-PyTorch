@@ -12,7 +12,7 @@ Well, why not? MobileNet is a nifty little architecture designed for efficiency,
 
 ## Quick Glimpse
 
-![MobileNet Fun](![Alt text](1_VvBTMkVRus6bWOqrK1SlLQ.png))
+![MobileNet Fun](![Alt text](dw.png))
 
 ## How to Play with MobileNet Fun
 
