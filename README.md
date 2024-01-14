@@ -1,6 +1,6 @@
 # MobileNet Fun
 
-Hey there! 👋 Welcome to my little corner of the code universe, where MobileNet meets whimsy! 🚀
+Hey there! 👋 Welcome to my little corner of the code universe, where MobileNet meets PyTorch! 🚀
 
 ## What's This?
 
@@ -12,18 +12,18 @@ Well, why not? MobileNet is a nifty little architecture designed for efficiency,
 
 ## Quick Glimpse
 
-![MobileNet Fun](link-to-some-gif-or-image.gif)
+![MobileNet Fun](![Alt text](1_VvBTMkVRus6bWOqrK1SlLQ.png))
 
 ## How to Play with MobileNet Fun
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/MobileNet-Fun.git
+   git clone https://github.com/Amr-Abdellatif/Mobile-Net-implmentation.git
    ```
 
 2. **Dive into the Code:**
-   Explore the [model/mobilenet.py](model/mobilenet.py) file to see the magic happen. Spoiler alert: It's not your typical implementation!
+   Explore the [model/mobilenet.py](model/main.ipynb) file to see the magic happen. Spoiler alert: It's not your typical implementation!
 
 3. **Run the Fun:**
    If you're feeling adventurous, run the provided example in your favorite Python environment and watch MobileNet Fun in action.
@@ -31,9 +31,3 @@ Well, why not? MobileNet is a nifty little architecture designed for efficiency,
 ## Contributing
 
 Feel like adding your own touch of fun? I'm all ears! Open an issue, send a pull request, or just drop a message in the virtual mailbox.
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for the legal-ish details.
-
-Now go ahead, explore, experiment, and enjoy the journey with MobileNet Fun! 🚀✨
